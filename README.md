@@ -1,7 +1,7 @@
 # 🚀 Learn Git & GitHub from Zero (Open Source Guide)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Project OpenSource](https://img.shields.io/badge/Project%3A%20OpenSource-blue)
-
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Learning](https://img.shields.io/badge/Project-Open%20Source-blue)
 
 
 Welcome! 👋  
