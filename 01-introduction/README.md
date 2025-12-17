@@ -139,7 +139,7 @@ You share code using:
 
 Problems:
 - Files get overwritten
-- Someone’s work gets lost
+- Someone’s work gets lost or destroyed
 - “Which is the latest file?” confusion
 
 ### ✅ With Git
