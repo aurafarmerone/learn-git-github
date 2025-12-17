@@ -4,7 +4,7 @@ This is a **very common Git mistake**, especially for beginners.
 
 # Scenario
 
-Taking a scenario inwhich you decided to create folders locally like this : 
+Taking a scenario inwhich you decided to create empty folders locally like this : 
 
 You run commands like:
 
@@ -14,7 +14,7 @@ git add .
 git commit -m "Add folders"
 git push
 ```
-but after pushing to GitHub,You got surprised to see that the folders that you pushed recently are **missing** 😕 on GitHub
+but after pushing to GitHub,You got surprised to see that the empty folders that you pushed recently are **missing** 😕 on GitHub
 
 
 Why this happen ?
