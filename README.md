@@ -1,4 +1,5 @@
 # 🚀 Learn Git & GitHub from Zero (Open Source Guide)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Welcome! 👋  
 This repository is a **beginner-friendly, step-by-step guide** to learning **Git and GitHub from scratch**, especially for **Windows users**.
@@ -145,11 +146,6 @@ If this repo helps you:
 - ⭐ Star the repository
 - 🔁 Share with friends
 - 🧠 Teach someone else
-
-## LICENSE
-
-License: MIT
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 ## 👤 Author
