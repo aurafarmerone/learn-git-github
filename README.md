@@ -146,6 +146,10 @@ If this repo helps you:
 - 🔁 Share with friends
 - 🧠 Teach someone else
 
+## LICENSE
+
+License: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 ## 👤 Author
