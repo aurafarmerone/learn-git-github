@@ -87,9 +87,6 @@ git version 2.xx.x
 ## 🎥 Video Tutorial
 
 [![Git Installation on Windows](assets/installGit.png)](https://www.youtube.com/watch?v=ekk1_MQ9JfQ)
-## 🎥 Video Tutorial
-
-[![Watch on YouTube](https://img.youtube.com/vi/ekk1_MQ9JfQ/0.jpg)](https://www.youtube.com/watch?v=ekk1_MQ9JfQ)
 
 
 
