@@ -103,6 +103,9 @@ VS Code is a lightweight and powerful code editor.
 
 Click **Next → Install**
 
+## 🎥 Video Tutorial
+
+[![VS Code Installation on Windows](assets/installVSCode.png)](https://www.youtube.com/watch?v=8lqYVr-eBME)
 
 
 ## 🎯 What’s Next?
