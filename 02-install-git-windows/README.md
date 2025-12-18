@@ -2,7 +2,7 @@
 
 This guide will help **beginners** install **Git on Windows** step by step. Follow along carefully — no prior experience needed.
 
----
+
 
 ## 🔹 Step 1: Go to the Official Git Website
 
@@ -12,7 +12,7 @@ Open your browser and visit:
 
 This is the **official and safe** website for Git.
 
----
+
 
 ## 🔹 Step 2: Download Git for Windows
 
@@ -27,14 +27,14 @@ The file will look like:
 Git-x.x.x-64-bit.exe
 ```
 
----
+
 
 ## 🔹 Step 3: Run the Installer
 
 1. Open the downloaded `.exe` file
 2. Click **Yes** if Windows asks for permission
 
----
+
 
 ## 🔹 Step 4: Git Installation Settings (Important)
 
@@ -56,7 +56,7 @@ You can mostly click **Next**, but pay attention to these options 👇
 
 For the remaining steps, keep **default options** and click **Next → Install**
 
----
+
 
 ## 🔹 Step 5: Finish Installation
 
@@ -67,7 +67,7 @@ After installation completes:
 
 🎉 Git is now installed on your system!
 
----
+
 
 ## 🔹 Step 6: Verify Git Installation
 
@@ -87,6 +87,10 @@ git version 2.xx.x
 ## 🎥 Video Tutorial
 
 [![Git Installation on Windows](assets/installGit.png)](https://www.youtube.com/watch?v=ekk1_MQ9JfQ)
+## 🎥 Video Tutorial
+
+[![Watch on YouTube](https://img.youtube.com/vi/ekk1_MQ9JfQ/0.jpg)](https://www.youtube.com/watch?v=ekk1_MQ9JfQ)
+
 
 
 ## 🔹 Step 7: Download Visual Studio Code (VS Code)
@@ -102,7 +106,7 @@ VS Code is a lightweight and powerful code editor.
 
 Click **Next → Install**
 
----
+
 
 ## 🎯 What’s Next?
 
@@ -114,7 +118,7 @@ Now that Git and VS Code are installed, you’re ready to:
 
 ➡️ Continue to **03-git-setup** 🚀
 
----
+
 
 ### 💡 Tip for Beginners
 
