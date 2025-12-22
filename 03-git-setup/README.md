@@ -80,6 +80,7 @@ You should see:
 user.name=Your Name
 user.email=your@email.com
 ```
+![Git config](assets/git-config.png)
 
 
 
