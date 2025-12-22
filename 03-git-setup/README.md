@@ -27,6 +27,8 @@ git --version
 git version 2.xx.x
 ```
 
+![Git Version](assets/git-version.png)
+
 If you see a version number, Git is installed correctly.
 
 
