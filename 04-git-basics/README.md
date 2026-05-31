@@ -27,7 +27,7 @@ Moves changes from the **Working Directory** to the **Staging Area**.
   ```bash
   git add index.html
   ```
-- Add **all** changed files:
+- Add **all** changed files in one go:
   ```bash
   git add .
   ```
